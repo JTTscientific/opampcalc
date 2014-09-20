@@ -1,6 +1,5 @@
 opampcalc
 =========
-
 Op Amp Calculator 
 
 <font color=black> <script language="JavaScript">
